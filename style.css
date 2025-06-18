@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 234, 44, 0.948);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.weather-app {
+    width: 500px;
+    height: 600px;
+    background-color: rgba(255, 255, 255, 0.652);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 20px;
+}
+.search{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.weather {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+input {
+    width: 360px;
+    height: 46px;
+    border: none;
+    border-radius: 19px;
+    background-color: rgba(255, 255, 255, 0.781);
+    padding: 2px 17px;
+    outline: none;
+    font-size: 1.3rem;
+}
+input:hover,button:hover {
+    box-shadow: 0 0 8px black;
+}
+input::placeholder{
+    color: rgba(1, 1, 1, 0.658);
+}
+
+button {
+    border-radius: 19px;
+    border: none;
+    width: 49px;
+    background-color: rgb(252, 250, 245)
+    ;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    height: 46px;
+    cursor: pointer;
+}
+
+.weather-img {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.weather-app-footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+.footer-align{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 100px;
+}
+.footer-align-img{
+ display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-align img{
+   
+    width: 50px;
+    height: 50px;
+}
+.b{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 25px;
+}
+.value{
+ font-weight: lighter;
+ font-size: 23px;
+}
+.temperature-status{
+    text-transform: capitalize;
+    font-size: 24px;
+}
+#humidity-value,#windy-value{
+    font-size: 19px;
+    font-weight: bold;
+}
