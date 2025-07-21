@@ -45,7 +45,7 @@ You will need a modern web browser to run this application.
     ```javascript
     const apiKey = "51******************b";
     ```
-    If this key is inactive, you can get your own free API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) and replace it.
+   you can get your own free API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) and replace it.
 
 4.  **Open in Browser:**
     Simply open the `index.html` file in your web browser to start using the application.
