@@ -43,7 +43,7 @@ You will need a modern web browser to run this application.
 3.  **API Key:**
     The project uses an API key from OpenWeatherMap, which is hardcoded in `script.js`.
     ```javascript
-    const apiKey = "5136a426d77586d3163a7ba1ff25b56b";
+    const apiKey = "51******************b";
     ```
     If this key is inactive, you can get your own free API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) and replace it.
 
