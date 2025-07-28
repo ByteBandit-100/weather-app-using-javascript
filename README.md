@@ -41,7 +41,7 @@ You will need a modern web browser to run this application.
     cd weather-app-using-javascript
     ```
 3.  **API Key:**
-    The project uses an API key from OpenWeatherMap, which is hardcoded in `script.js`.
+    Use your own API key.`.
     ```javascript
     const apiKey = "51******************b";
     ```
