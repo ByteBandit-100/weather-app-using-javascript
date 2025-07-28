@@ -43,7 +43,7 @@ You will need a modern web browser to run this application.
 3.  **API Key:**
     Use your own API key.`.
     ```javascript
-    const apiKey = "51******************b";
+    const apiKey = "5******************b";
     ```
    you can get your own free API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) and replace it.
 
