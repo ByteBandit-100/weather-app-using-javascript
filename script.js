@@ -7,7 +7,7 @@ const temperatureStatus = document.querySelector(".temperature-status");
 const humidityValue = document.querySelector("#humidity-value");
 const windyValue = document.querySelector("#windy-value");
 
-const apiKey = "5*************6b";
+const apiKey = "5******************b";
 
 async function getWeather(city, key) {
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${key}`;
