@@ -6,9 +6,9 @@ A simple and elegant weather application built with HTML, CSS, and vanilla JavaS
 ## Preview
 |  **Error State** | **Cloudy Conditions** |
 | :---: | :---: |
-| ![Screenshot of the weather app's search interface](https://github.com/user-attachments/assets/1fa614ad-c3c6-4d09-9515-5ee08dc89a84) | ![Screenshot of the weather app showing clear sky conditions](https://github.com/user-attachments/assets/d01600e3-e242-4ebd-9cf2-ab6e32f01744) |
+| ![Screenshot of the weather app's search interface with invalid city error condition](https://github.com/user-attachments/assets/1fa614ad-c3c6-4d09-9515-5ee08dc89a84) | ![Screenshot of the weather app showing cloudy conditions](https://github.com/user-attachments/assets/d01600e3-e242-4ebd-9cf2-ab6e32f01744) |
 | **No internet Connection** | **Clear sky** |
-| ![Screenshot of the weather app showing cloudy conditions](https://github.com/user-attachments/assets/6ef07f8d-c1b5-47a8-abdc-36d1ec194c81) | ![Screenshot of the weather app showing an invalid city error](https://github.com/user-attachments/assets/02f88693-7bff-4f30-b792-b54c5a1beddf) |
+| ![Screenshot of the weather app showing no network](https://github.com/user-attachments/assets/6ef07f8d-c1b5-47a8-abdc-36d1ec194c81) | ![Screenshot of the weather app showing clear sky conditions](https://github.com/user-attachments/assets/02f88693-7bff-4f30-b792-b54c5a1beddf) |
 
 ## Features
 - **Search by City:** Enter any city name to get the latest weather information.
