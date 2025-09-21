@@ -1,5 +1,4 @@
 # Weather App using JavaScript
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ByteBandit-100/weather-app-using-javascript)
 
 A simple and elegant weather application built with HTML, CSS, and vanilla JavaScript. It fetches real-time weather data from the OpenWeatherMap API to provide current weather conditions for any city in the world.
 
